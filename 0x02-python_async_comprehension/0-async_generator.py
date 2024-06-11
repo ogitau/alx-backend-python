@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-
 """
 coroutine async_generator taking no args
 loops 10 times each time asynchronously wait 1 second
